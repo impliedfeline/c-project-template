@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Project Template"
+PROJECT_BRIEF          = "A project template for C projects"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = README.md src
+RECURSIVE              = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+GENERATE_LATEX         = NO
